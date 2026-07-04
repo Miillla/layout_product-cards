@@ -1,0 +1,15 @@
+.page {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Roboto, sans-serif;
+  font-size: 10px;
+  line-height: 14px;
+  color: #616070;
+
+  &__content {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
